@@ -77,7 +77,7 @@ npm run dev
 ### 3. Open Browser
 
 ```
-http://localhost:5173
+> http://localhost:5173
 ```
 
 ### 4. App Link
