@@ -1,6 +1,6 @@
 # 🌍 TripGenie
 
-<img src="screenshots/hero.png" alt="TripGenie logo" width="120" />
+<img src="hero.png" alt="TripGenie logo" width="120" />
 
 ### An AI-Powered Trip Planning Platform
 
@@ -20,7 +20,7 @@ Built with React, Tailwind CSS & Recharts — Premium Glassmorphism UI
 
 | 🏠 Home | 🧭 AI Planner | 🌐 Destinations |
 |:---:|:---:|:---:|
-| ![Home](screenshots/hero.png) | ![Planner](screenshots/plan-wizard.png) | ![Destinations](screenshots/destinations.png) |
+| ![Home](hero.png) | ![Planner](plan-wizard.png) | ![Destinations](destinations.png) |
 
 ---
 
