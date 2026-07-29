@@ -82,8 +82,7 @@ http://localhost:5173
 
 ### 4. App Link
 
-> Not deployed yet — add your live URL here once hosted (see [Deployment](#️-deployment)).
-
+> https://tripgenie-ai-app.netlify.app
 ---
 
 ## 📁 Project Structure
@@ -100,7 +99,7 @@ tripgenie/
 ├── package.json
 └── README.md
 ```
-Either gives you a live URL — drop it into the [App Link](#4-app-link) section above.
+
 
 ---
 
